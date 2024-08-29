@@ -1,0 +1,41 @@
+nav{
+    margin-left: 1000px;
+}
+header{
+    background-color: aqua;
+}
+button{
+    background-color: beige;
+}
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+.container{
+    padding: 50px auto;
+    width: 100px;
+    display: flex;
+}
+.home{
+    background-color: brown;
+}
+.head{
+    background-color: darkkhaki;
+}
+.courses{
+   background-color: coral;
+   
+}
+.contact{
+    background-color: darksalmon;
+}
