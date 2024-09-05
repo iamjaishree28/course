@@ -1,5 +1,18 @@
+
+a{
+   justify-content: space-evenly ;
+   color: black;
+}
+ul{
+    list-style-type: none;
+}
+body{ 
+    text-align: center;
+    align-items: center;
+}
 nav{
     margin-left: 1000px;
+    color:black;
 }
 header{
     background-color: aqua;
@@ -7,6 +20,10 @@ header{
 button{
     background-color: beige;
 }
+.skills a{
+    color: black;
+}
+
 
 html, body {
     height: 100%;
@@ -27,15 +44,15 @@ body {
     display: flex;
 }
 .home{
-    background-color: brown;
+    background-color:#023e8a;
 }
 .head{
-    background-color: darkkhaki;
+    background-color:#00b4d8;
 }
 .courses{
-   background-color: coral;
+   background-color: #48cae4;
    
 }
 .contact{
-    background-color: darksalmon;
+    background-color:#ade8f4;
 }
